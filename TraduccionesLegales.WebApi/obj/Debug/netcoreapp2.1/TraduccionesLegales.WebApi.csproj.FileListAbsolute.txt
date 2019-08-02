@@ -1,0 +1,17 @@
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.deps.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.runtimeconfig.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.runtimeconfig.dev.json
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.dll
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\bin\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.pdb
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.csprojAssemblyReference.cache
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.RazorAssemblyInfo.cache
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.RazorAssemblyInfo.cs
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.AssemblyInfoInputs.cache
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.AssemblyInfo.cs
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.dll
+C:\Users\jeanc\Source\Repos\TraduccionesLegales\TraduccionesLegales.WebApi\obj\Debug\netcoreapp2.1\TraduccionesLegales.WebApi.pdb
