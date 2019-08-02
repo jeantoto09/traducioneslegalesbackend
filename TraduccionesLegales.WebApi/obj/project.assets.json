@@ -7170,11 +7170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeanc\\Source\\Repos\\TraduccionesLegales\\TraduccionesLegales.WebApi\\TraduccionesLegales.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\jeanc\\Desktop\\repostitorio\\TraduccionesLegales.WebApi\\TraduccionesLegales.WebApi.csproj",
       "projectName": "TraduccionesLegales.WebApi",
-      "projectPath": "C:\\Users\\jeanc\\Source\\Repos\\TraduccionesLegales\\TraduccionesLegales.WebApi\\TraduccionesLegales.WebApi.csproj",
+      "projectPath": "C:\\Users\\jeanc\\Desktop\\repostitorio\\TraduccionesLegales.WebApi\\TraduccionesLegales.WebApi.csproj",
       "packagesPath": "C:\\Users\\jeanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeanc\\Source\\Repos\\TraduccionesLegales\\TraduccionesLegales.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\jeanc\\Desktop\\repostitorio\\TraduccionesLegales.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
